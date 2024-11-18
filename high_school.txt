@@ -1,0 +1,18 @@
+Location: High School
+Description: A public high school with a sprawling campus.
+
+These are the only locations you can travel to from here:
+
+Home: Your starting location, a modest two-story suburban home.
+URL: https://raw.githubusercontent.com/sarspatula/dragon_adventure/main/home/home.txt
+Remny Park: A local park with grass, trees, and a small lake.
+URL: https://raw.githubusercontent.com/sarspatula/dragon_adventure/main/locations/remny_park.txt
+Bus Stop: A bus stop near the school. It will take you to downtown Seattle.
+URL: https://raw.githubusercontent.com/sarspatula/dragon_adventure/main/locations/bus_stop.txt
+These are the only places you can go within this location:
+
+Main Entrance: The main entrance of the high school, bustling with students.
+Cafeteria: A large space where students gather during lunch breaks.
+NPCs:
+
+Emily: Your best friend. She is up for anything and can be found hanging around the school.
