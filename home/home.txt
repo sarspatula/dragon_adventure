@@ -1,0 +1,11 @@
+Location: Home
+Description: A modest two-story suburban home. 
+These are the only locations you can travel to from here
+- High School
+- Remny Park: A local park with grass, trees and a small lake
+- Bus Stop: A bus stop a few blocks from your house. It will take you to downtown Seattle. 
+These are the only places you can go within this location: 
+- Your Room: A typical 1980s bedroom of a 13-year-old girl. 
+- Kitchen: The kitchen is downstairs. You can hear your mom singing to herself while she makes breakfast. 
+NPCs: 
+- Mom: She doesn't know anything about the pendant. Her top priority is getting you off to school
