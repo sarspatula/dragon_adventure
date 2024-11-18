@@ -1,0 +1,15 @@
+Location: Remny Park
+Description: A green space with a jungle gym and a pond.
+
+These are the only locations you can travel to from here:
+* High School: This is your high school. Your best friend, Emily, should be there today.
+** URL: https://raw.githubusercontent.com/sarspatula/dragon_adventure/main/locations/high_school.txt
+* Bus Stop: A bus stop a few blocks from your house. It will take you to downtown Seattle.
+** URL: https://raw.githubusercontent.com/sarspatula/dragon_adventure/main/locations/bus_stop.txt
+
+These are the only places you can go within this location:
+* Playground: A jungle gym area where kids play during the day.
+* Pond: A small, serene pond surrounded by benches.
+
+NPCs:
+* Eddie: An artist with an eye for the supernatural. He knows Lisa at the Java Dragon Café.
