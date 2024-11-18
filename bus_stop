@@ -1,0 +1,16 @@
+Location: Bus Stop
+Description: A graffiti-covered bus stop.
+
+These are the only locations you can travel to from here:
+* Remny Park: A local park with grass, trees, and a small lake.
+** URL: https://raw.githubusercontent.com/sarspatula/dragon_adventure/main/locations/remny_park.txt
+* Downtown Seattle: The bustling downtown area of Seattle, filled with shops, cafes, and skyscrapers.
+** URL: https://raw.githubusercontent.com/sarspatula/dragon_adventure/main/locations/downtown_seattle.txt
+* High School: This is your high school. Your best friend, Emily, should be there today.
+** URL: https://raw.githubusercontent.com/sarspatula/dragon_adventure/main/locations/high_school.txt
+
+These are the only places you can go within this location:
+* Bench: A wooden bench covered in graffiti, where people often wait for the bus.
+
+NPCs:
+* Diana: An older woman with a mouse on a string on her shoulder, which she claims can tell the future.
